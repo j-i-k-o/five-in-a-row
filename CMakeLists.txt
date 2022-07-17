@@ -16,6 +16,11 @@ FetchContent_MakeAvailable(googletest)
 enable_testing()
 
 add_executable(
+  app
+  five-in-a-row.cc
+)
+
+add_executable(
   mytest
   tests.cc
 )
