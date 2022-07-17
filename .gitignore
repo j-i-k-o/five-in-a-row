@@ -171,3 +171,4 @@ project_template/tutorial
 *.xcodeproj
 *.DS_Store
 *.entitlements
+Testing
